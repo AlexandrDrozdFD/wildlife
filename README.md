@@ -3,7 +3,7 @@
 1. Task link: https://rolling-scopes-school.github.io/stage0/#/tasks/wildlife
 2. Screenshot wildlife task:\
 ![](assets/images/screeshot.PNG)
-3. Link of deploy (netlify/gh-pages) according docs.rs.school
+3. Link of deploy (netlify/gh-pages): https://rolling-scopes-school.github.io/alexandrdrozdfd-JSFE2021Q1/wildlife
 4. Done 03.03.2021 / Deadline: 15.03.2021
 5. **Score**: 50 / 50; \
   5.1. Блок Header +10; \
